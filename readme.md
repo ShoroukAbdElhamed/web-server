@@ -8,11 +8,11 @@ This is a bash script that could be run to install nginx and use it as loadbalan
 
 ## Exit codes
 
-return code 21 --> Failed to start nginx
-return code 22 --> Invalid ip entered to nginx as web server to proxy for
-return code 23 --> Installation of nginx failed
-return code 24 --> Invalid ip entered to nginx adding function
-return code 25 --> Nginx server wasn't configured 
+* return code 21 --> Failed to start nginx
+* return code 22 --> Invalid ip entered to nginx as web server to proxy for
+* return code 23 --> Installation of nginx failed
+* return code 24 --> Invalid ip entered to nginx adding function
+* return code 25 --> Nginx server wasn't configured 
 
 ## Contact
 
